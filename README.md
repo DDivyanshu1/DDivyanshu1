@@ -8,7 +8,12 @@
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: stay tuned for it
 
+<h2>🏆 My Trophies: </h2>
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=DDivyanshu1&theme=darkhub&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h2>📊 My Github Stats: </h2>
+
 <center>
   
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/MainakRepositor/badges)
